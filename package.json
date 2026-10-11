@@ -1,0 +1,16 @@
+{
+  "name": "vayora-full-stack-demo-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Photo-led VAYORA bag-shopping demo with a responsive HTML/CSS/JavaScript storefront, local product photography, infinite brand marquee and zero-dependency Node.js admin API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js && node --check public/js/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

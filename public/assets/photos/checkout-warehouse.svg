@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 230" role="img" aria-labelledby="title desc">
+  <title id="title">VAYORA parcel warehouse</title><desc id="desc">Neatly stacked shipping boxes in a small warehouse, prepared for delivery.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdf3"/><stop offset="1" stop-color="#f1ead5"/></linearGradient>
+    <linearGradient id="box" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#f8d978"/><stop offset="1" stop-color="#d8a82d"/></linearGradient>
+    <linearGradient id="darkbox" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a4b43"/><stop offset="1" stop-color="#242520"/></linearGradient>
+  </defs>
+  <rect x="7" y="8" width="406" height="214" rx="18" fill="url(#wall)" stroke="#e7dfc9"/>
+  <path d="M29 35H390M29 95H390M29 155H390" stroke="#b8aa80" stroke-width="6" stroke-linecap="round"/>
+  <path d="M39 27V194M380 27V194" stroke="#4d4c41" stroke-width="9" stroke-linecap="round"/>
+  <path d="M31 206H390" stroke="#c3b99c" stroke-width="9" stroke-linecap="round"/>
+  <g stroke="#b68627" stroke-width="1.5">
+    <rect x="53" y="43" width="65" height="44" rx="3" fill="url(#box)"/><path d="M84 43V87M53 55L84 67L118 54" fill="none"/>
+    <rect x="127" y="44" width="51" height="43" rx="3" fill="#e8c26b"/><path d="M153 44V87M128 55L153 66L178 55" fill="none"/>
+    <rect x="255" y="42" width="53" height="46" rx="3" fill="url(#darkbox)" stroke="#33342e"/><path d="M281 42V88M255 55L281 67L308 55" fill="none" stroke="#d9b33c"/>
+    <rect x="317" y="43" width="45" height="45" rx="3" fill="#e4d4a4"/><path d="M340 43V88M317 56L340 67L362 56" fill="none"/>
+    <rect x="51" y="105" width="57" height="42" rx="3" fill="#e6be58"/><path d="M80 105V147M51 117L80 128L108 117" fill="none"/>
+    <rect x="115" y="104" width="73" height="43" rx="3" fill="url(#darkbox)" stroke="#33342e"/><path d="M151 104V147M115 116L151 128L188 116" fill="none" stroke="#d9b33c"/>
+    <rect x="254" y="105" width="66" height="42" rx="3" fill="url(#box)"/><path d="M287 105V147M254 117L287 128L320 117" fill="none"/>
+    <rect x="326" y="104" width="37" height="43" rx="3" fill="#e4d4a4"/><path d="M345 104V147M326 116L345 127L363 116" fill="none"/>
+  </g>
+  <g>
+    <rect x="66" y="166" width="83" height="38" rx="4" fill="url(#box)" stroke="#b68627"/><path d="M107 166V204M66 177L107 188L149 177" fill="none" stroke="#b68627" stroke-width="1.5"/>
+    <rect x="158" y="165" width="95" height="39" rx="4" fill="url(#darkbox)" stroke="#33342e"/><path d="M205 165V204M158 177L205 189L253 177" fill="none" stroke="#d5ad32" stroke-width="1.5"/>
+    <rect x="262" y="166" width="94" height="38" rx="4" fill="#e8c26b" stroke="#b68627"/><path d="M309 166V204M262 177L309 188L356 177" fill="none" stroke="#b68627" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(174 124)">
+    <circle cx="18" cy="70" r="9" fill="#282923"/><circle cx="18" cy="70" r="3.5" fill="#deddd3"/>
+    <circle cx="57" cy="70" r="9" fill="#282923"/><circle cx="57" cy="70" r="3.5" fill="#deddd3"/>
+    <path d="M0 29H43L60 47V62H0Z" fill="#f4c928" stroke="#282923" stroke-width="2"/>
+    <path d="M43 31V47H60" fill="#fff4bd" stroke="#282923" stroke-width="2"/>
+    <rect x="8" y="36" width="22" height="17" rx="2" fill="#fff8dc" stroke="#b99322"/>
+    <path d="M12 41H26M12 46H23" stroke="#5d5a4b" stroke-width="1.5"/>
+    <path d="M0 61H61" stroke="#282923" stroke-width="3"/>
+  </g>
+  <rect x="20" y="18" width="107" height="23" rx="11.5" fill="#242520"/>
+  <circle cx="34" cy="29.5" r="4.5" fill="#f4c928"/><text x="45" y="33.5" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#fff">READY TO SHIP</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" role="img" aria-labelledby="title desc">
+  <title id="title">VAYORA</title><desc id="desc">VAYORA Carry Beyond</desc>
+  <path d="M5 7h15l15 27L49 7h15L35 53z" fill="#ffca1c"/>
+  <path d="M30 7h15L62 37 77 7h15L62 53z" fill="#171816"/>
+  <text x="98" y="34" font-family="Manrope,Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="4" fill="#171816">VAYORA</text>
+  <text x="100" y="49" font-family="DM Sans,Arial,sans-serif" font-size="8.5" font-weight="700" letter-spacing="4.1" fill="#686960">CARRY BEYOND</text>
+</svg>
